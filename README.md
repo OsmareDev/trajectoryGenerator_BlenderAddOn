@@ -1,5 +1,8 @@
+![test](https://github.com/OsmareDev/trajectoryGenerator_BlenderAddOn/assets/50903643/1dc65556-f4ae-4ff3-8888-644454c279bf)
+
 # English
-AddOn for blender made in python to generate trajectories, interpolating points in space and adapting the trajectory, rotation, etc. to the movement. Made for the animation subject of the multimedia engineering degree.
+AddOn for blender made in python
+on to generate trajectories, interpolating points in space and adapting the trajectory, rotation, etc. to the movement. Made for the animation subject of the multimedia engineering degree.
 
 > [!IMPORTANT]  
 > A refactoring to separate the code from the main file is necessary as well as re-recording the explanations, this is due to the little time we had to carry out and prepare the practice as well as the need for some colleagues to keep up to date with the work.
